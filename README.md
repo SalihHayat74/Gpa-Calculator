@@ -2,7 +2,7 @@
 
 ## Overview 
 
-This GPA Calculator is a mobile application developed in Flutter for Android users. It simplifies the process of calculating your cumulative GPA (cGPA) by allowing you to manage and calculate the GPA for multiple subjects. Whether you're a student trying to keep track of your academic performance or an educator looking to assist students in calculating their grades, this app offers a user-friendly interface and essential features.
+This GPA Calculator is a mobile application developed in Flutter for Android users. It simplifies the process of calculating your cumulative GPA (cGPA) by allowing you to manage and calculate the GPA for multiple subjects. Whether you're a student trying to keep track of your academic performance, or an educator looking to assist students in calculating their grades, this app offers a user-friendly interface and essential features.
 
 ## Features
 
